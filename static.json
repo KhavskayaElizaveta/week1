@@ -1,7 +1,8 @@
 {
    "headers":{
      "/*":{
-       "X-Author": "elizaveta_khavskaya"
+       "X-Author": "elizaveta_khavskaya",
+        "Access-Control-Allow-Origin": "*"
      }
    } 
 }
